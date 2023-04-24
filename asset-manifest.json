@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw8movie/static/css/main.073c9b0a.css",
+    "main.js": "/hw8movie/static/js/main.0d8fa32b.js",
+    "index.html": "/hw8movie/index.html",
+    "main.073c9b0a.css.map": "/hw8movie/static/css/main.073c9b0a.css.map",
+    "main.0d8fa32b.js.map": "/hw8movie/static/js/main.0d8fa32b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0d8fa32b.js"
+  ]
+}
